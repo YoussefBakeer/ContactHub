@@ -1,0 +1,647 @@
+.contact-setion-icon
+{
+    width: 45px;
+    height: 45px;
+    background: linear-gradient(to right,rgb(123, 37, 253),rgb(86, 55, 247));
+    border-radius: 12px;
+    box-shadow: 0px 2px 2px 0px rgb(221, 205, 255);
+}
+.contact-setion-icon i
+{
+    color: white;
+    font-size: 20px;
+}
+.contact-setion-heading 
+{
+    margin-top: 10px;
+}
+.contact-setion-heading p
+{
+    font-size: 12px;
+    color: rgb(113, 121, 136);
+    font-weight: 500;
+    margin-top: -1px;
+}
+.contact-setion-heading span
+{
+    font-size: 24px;
+    font-weight: 700;
+}
+.color
+{
+   color: rgb(127, 34, 254)
+}
+.navbar-main 
+{
+    background-color: rgb(253, 253, 254);
+    border-bottom: 2px solid rgb(241, 242, 244);
+}
+.btn-navbar button
+{
+    color: white;
+    background: linear-gradient(to right,rgb(123, 37, 253),rgb(86, 55, 247));
+    border-radius: 12px;
+    box-shadow: 0px 2px 2px 0px rgb(221, 205, 255);
+    font-weight: 600;
+    font-size: 14px;
+    padding: 10px 23px !important;
+    margin: 5px;
+}
+.nav-icon
+{
+    width: 45px;
+    height: 45px;
+    background: rgb(245, 247, 250);
+    border-radius: 12px;
+    box-shadow: 0px 2px 2px 0px rgb(248, 249, 250);
+    cursor: pointer;
+    padding: 6px;
+} 
+.nav-icon i 
+{
+    color: #6a7282;
+    cursor: pointer;
+}
+.nav-icon:hover
+{
+    background-color: rgb(243, 244, 246);
+} 
+.nav-icon i:hover 
+{
+    color: rgb(54, 65, 83);
+}
+.nav-image 
+{
+    width: 45px;
+    height: 45px;
+    border-radius: 15px;
+} 
+.nav-image img
+{
+    border-radius: 15px;
+} 
+.modal-content{
+    border-radius:20px;
+}
+.form-control
+{
+    height:50px;
+    border-radius:12px;
+}
+.madel-header-text h3
+{
+    font-size: 20px;
+    font-weight: 700;
+}
+.contact-image 
+{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to right,rgb(65, 146, 255),rgb(34, 112, 254));
+    border-radius: 50%;
+    font-size: 25px;
+    color: white;
+}
+.model-image-file 
+{
+    margin-top: -20px;
+    color: rgb(54, 65, 83);
+    background-color: rgb(243, 244, 246);
+}
+.model-image-file i
+{
+    color: rgb(54, 65, 83);
+}
+.model-image-file:hover 
+{
+    background-color: rgb(229, 231, 235);
+}
+.contact-from label
+{
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 18px;
+}
+.contact-from input
+{
+    padding: 12px;
+    border-radius: 18px;
+    border: 1px solid rgb(229, 231, 235);
+}
+.contact-from input:focus
+{
+    padding: 12px;
+    border-radius: 18px;
+    border: 1px solid #a474ff;
+    box-shadow: 0 0 0 2px rgb(226, 216, 254);
+}
+.contact-from select
+{
+    padding: 12px;
+    border-radius: 18px;
+    border: 1px solid rgb(229, 231, 235);
+}
+.contact-from select:focus
+{
+    padding: 12px;
+    border-radius: 18px;
+    border: 1px solid #a474ff;
+    box-shadow: 0 0 0 2px rgb(226, 216, 254);
+}
+.contact-from textarea
+{
+    padding: 12px;
+    border-radius: 18px;
+    border: 1px solid rgb(229, 231, 235);
+    resize: none;
+}
+.contact-from textarea:focus
+{
+    padding: 12px;
+    border-radius: 18px;
+    border: 1px solid #a474ff;
+    box-shadow: 0 0 0 2px rgb(226, 216, 254);
+}
+
+
+.rounded-circle
+{
+    object-fit:cover;
+}
+.hero-section 
+{
+    padding: 150px 0 100px;
+    background-color: rgba(248, 250, 252, 0.562);
+}
+.hero-section-heading-card 
+{
+    border: 2px solid rgb(241, 242, 244);
+    border-radius: 15px;
+    padding: 22px;
+    color: white;
+    box-shadow: 1px 1px 4px 0px rgb(233, 235, 237);
+}
+.hero-section-heading-card:hover 
+{
+    box-shadow: 1px 4px 4px 0px rgb(233, 235, 237);
+}
+.hero-section-heading-card-icon 
+{
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(to right,rgb(41, 123, 255),rgb(25, 100, 254));
+    border-radius: 12px;
+    box-shadow: 0px 2px 2px 0px rgb(221, 205, 255);
+    font-size: 16px;
+    color: white;
+}
+.hero-section-heading-card-icon-star 
+{
+     width: 50px;
+    height: 50px;
+    background: linear-gradient(to right,rgb(255, 177, 0),rgb(255, 117, 0));
+    border-radius: 12px;
+    box-shadow: 0px 4px 4px 0px rgb(255, 233, 198);
+    font-size: 16px;
+    color: white;
+}
+.hero-section-heading-card-icon-heart 
+{
+        width: 50px;
+        height: 50px;
+        background: linear-gradient(to right,rgb(251, 24, 76),rgb(237, 0, 39));
+        border-radius: 12px;
+        box-shadow: 0px 4px 4px 0px rgb(255, 197, 211);
+        font-size: 16px;
+        color: white;
+}
+.heading-card-text 
+{
+    color: rgb(113, 121, 136);
+    font-size: 16px;
+    font-weight: 500;
+}
+.heading-card-number
+{
+    color: rgb(16, 24, 40);
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: -5px;
+}
+.contact-main-heading, .contact-main-contant
+{
+    margin-top: 20px;
+}
+.contact-main-heading h2
+{
+    font-size: 30px;
+    font-weight: 700;
+}
+.contact-main-heading p
+{
+    margin-top: -6px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(113, 121, 136);
+}
+.input-group-text {
+    border-right: none;
+    border-radius: 15px;
+}
+.input-group input
+{
+    padding: 12px;
+    border-radius: 15px;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.form-control {
+    border-left: none;
+}
+.input-group:focus-within 
+{
+    border: 1px solid rgb(142, 81, 255);
+    border-radius: 15px;
+    box-shadow: 0 0 0 2px rgb(226, 216, 254);
+}
+.form-control:focus 
+{
+    border-color: transparent;
+    box-shadow: none;    
+}
+.contact-card 
+{
+    border: 2px solid rgb(241, 242, 244);
+    border-radius: 15px;
+    padding: 22px;
+    box-shadow: 0px 2px 4px 0 rgb(236, 238, 240);
+}
+.contact-card:hover 
+{
+    box-shadow: 0px 12px 10px 0 rgb(236, 238, 240);
+    border: 1px rgb(229, 231, 235) solid;
+}
+.contact-card-head-icon span
+{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+} 
+.contact-card-head-icon 
+{
+    width: 55px;
+    height: 55px;
+    background: linear-gradient(to right,rgb(253, 147, 0),rgb(248, 96, 0));
+    border-radius: 12px;
+    box-shadow: 0px 2px 2px 0px rgb(221, 205, 255);
+}
+.contact-card-head-text h3
+{
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(16, 24, 40);
+}
+.contact-card-head-text-phone-icon
+{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(219, 234, 254);
+    border-radius: 8px;
+    padding: 5px;
+}
+.contact-card-head-text-phone-icon i
+{
+    color: rgb(21, 93, 252);
+    font-size:  10px;
+}
+.contact-card-head-text-phone span
+{
+    font-size:  15px;
+    color: rgb(106, 114, 130);
+    font-weight: 600;
+    margin-top: -2px;
+}
+.contact-card-information 
+{
+    margin-top: 15px;
+}
+.contact-card-email-icon 
+{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(237, 233, 254);
+    border-radius: 8px;
+    padding: 8px;
+}
+.contact-card-email-icon i
+{
+   font-size: 10px;
+   color: rgb(127, 34, 254);
+}
+.contact-card-email span, .contact-card-location span
+{
+    font-size:  14px;
+    color: rgb(106, 114, 130);
+    font-weight: 500;
+    margin-top: -2px;
+}
+.contact-card-location-icon 
+{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(208, 250, 229);
+    border-radius: 8px;
+    padding: 8px;
+}
+.contact-card-location-icon i
+{
+   font-size: 10px;
+   color: rgb(0, 153, 102);
+}
+.contact-card-staute-group 
+{
+    width:50px;
+    height:30px;
+    background-color: rgb(243, 232, 255);
+    color: rgb(130, 0, 219);
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 8px;
+}
+.contact-card-staute 
+{
+    margin-top: 5px;
+}
+.contact-card-staute-emergency 
+{
+    background-color: rgb(255, 241, 242);
+    color: rgb(239, 33, 87);
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 8px;
+    font-weight: 500;
+} 
+.contact-card-tag-phone 
+{
+    background-color: rgb(236, 253, 245);
+    color: rgb(0, 153, 102);
+}
+.contact-card-tag-email:hover 
+{
+    background-color: rgb(237, 233, 254);
+}
+.contact-card-tag-phone:hover 
+{
+    background-color: rgb(208, 250, 229);
+}
+.contact-card-tag-email,.contact-card-tag-phone,.contact-card-tag-star,.contact-card-tag-heart,.contact-card-tag-pen,.contact-card-tag-trash
+{
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.contact-card-tag-email 
+{
+    background-color: rgb(245, 243, 255);
+    color: rgb(127, 34, 254);
+}
+.contact-card-tag-star
+{
+    background-color: rgb(255, 251, 235);
+    color: rgb(255, 185, 0);
+}
+.contact-card-tag-star:hover
+{
+    background-color: rgb(254, 243, 198);
+}
+.contact-card-tag-heart 
+{
+    background-color: rgb(255, 241, 242);
+    color: rgb(255, 32, 86);
+}
+.contact-card-tag-heart:hover 
+{
+    background-color: rgb(255, 228, 230);
+}
+.contact-card-tag-pen 
+{
+    background-color: rgb(249, 250, 251);
+    color: rgb(108, 115, 131);
+}
+.contact-card-tag-pen:hover 
+{
+    background-color: rgb(238, 242, 255);
+    color: rgb(79, 57, 246);
+}
+.contact-card-tag-trash 
+{
+    background-color: rgb(249, 250, 251);
+    color: rgb(108, 115, 131);
+}
+.contact-card-tag-trash:hover 
+{
+    background-color: rgb(255, 241, 242);
+    color: rgb(236, 0, 63);
+}
+.hero-section-contant-sidebar 
+{
+    margin-top: 30px;
+}
+.sidebar-favorites 
+{
+    border: 1px  rgb(243, 244, 246) solid;
+    border-radius: 15px;
+    box-shadow: 0px 2px 4px 1px rgb(226, 227, 229);
+}
+.sidebar-favorites-head 
+{
+    padding: 20px 10px 5px 20px; 
+    background-color: rgb(255, 248, 237);
+    border-bottom: 1px  rgb(243, 244, 246) solid;
+    border-radius: 12px;
+}
+.sidebar-favorites-body
+{
+    padding: 20px;
+    background-color: white;
+    border-radius: 12px;
+}
+.sidebar-favorites-head-icon,.sidebar-favorites-body-head
+{
+    width: 37px;
+    height: 37px;
+    border-radius: 8px;
+    background: linear-gradient(to right,rgb(255, 180, 0),rgb(255, 116, 0));
+    color: white;
+    font-size: 12px;
+}
+.sidebar-favorites-body-head
+{
+    width: 42px;
+    height: 42px;
+    font-size: 16px;
+    font-weight: 600;
+    background: linear-gradient(to right,rgb(0, 178, 222),rgb(0, 116, 246));
+}
+.sidebar-favorites-head-text h4
+{
+    font-size: 18px;
+    font-weight: 600;
+}
+.sidebar-favorites-head-text p
+{
+    font-size: 11px;
+    font-weight: 400;
+    color: rgb(106, 114, 130);
+    margin-top: -5px;
+}
+.sidebar-favorites-body-text h5
+{
+    margin-top: 3px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.sidebar-favorites-body-text p
+{
+    font-size: 12px;
+    font-weight: 500;
+    color: rgb(106, 114, 130);
+    margin-top: -10px;
+}
+.sidebar-favorites-body-icon 
+{
+    width: 35px;
+    height: 35px;
+    background-color: rgb(208, 250, 229);
+    color: #009966;
+    border-radius: 8px;
+    font-size: 14px;
+}
+.sidebar-Emergency 
+{
+    border: 1px  rgb(243, 244, 246) solid;
+    border-radius: 15px;
+    box-shadow: 0px 2px 4px 1px rgb(226, 227, 229);
+}
+.sidebar-Emergency-head 
+{
+    padding: 20px 10px 5px 20px; 
+    background-color: #fff2f2;
+    border-bottom: 1px  rgb(243, 244, 246) solid;
+    border-radius: 12px;
+}
+.sidebar-Emergency-body
+{
+    padding: 5px;
+    background-color: white;
+    border-radius: 12px;
+}
+.sidebar-Emergency-body-main
+{
+    padding: 5px 15px 0;
+    width: 95%;
+    margin: auto;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.sidebar-Emergency-body-main:hover
+{
+    background-color: rgb(255, 241, 242);
+}
+.sidebar-Emergency-body-main:hover .sidebar-Emergency-body-icon 
+{
+    background-color: rgb(255, 32, 86);
+    color: white;
+}
+.sidebar-Emergency-head-icon,.sidebar-Emergency-body-head
+{
+    width: 37px;
+    height: 37px;
+    border-radius: 8px;
+    background: linear-gradient(to right,rgb(254, 29, 82),rgb(234, 0, 25));
+    color: white;
+    font-size: 12px;
+}
+.sidebar-Emergency-body-head
+{
+    width: 42px;
+    height: 42px;
+    font-size: 16px;
+    font-weight: 600;
+    background: linear-gradient(to right,rgb(0, 178, 222),rgb(0, 116, 246));
+}
+.sidebar-Emergency-head-text h4
+{
+    font-size: 18px;
+    font-weight: 600;
+}
+.sidebar-Emergency-head-text p
+{
+    font-size: 11px;
+    font-weight: 400;
+    color: rgb(106, 114, 130);
+    margin-top: -5px;
+}
+.sidebar-Emergency-body-text h5
+{
+    margin-top: 3px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.sidebar-Emergency-body-text p
+{
+    font-size: 12px;
+    font-weight: 500;
+    color: rgb(106, 114, 130);
+    margin-top: -10px;
+}
+.sidebar-Emergency-body-icon 
+{
+    width: 35px;
+    height: 35px;
+    background-color: rgb(255, 228, 230);
+    color: rgb(236, 0, 63);
+    border-radius: 8px;
+    font-size: 14px;
+}
+.from-checkbox .icon-star 
+{
+    color: rgb(255, 185, 0);
+}
+.from-checkbox .icon-heart 
+{
+    color: rgb(255, 32, 86);
+}
+.model-btn button
+{
+    margin-top: 25px;
+    padding: 10px 69px;
+}
+.button-main-send 
+{
+    background: linear-gradient(to right,rgb(127, 34, 253),rgb(79, 57, 246));
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.button-main-send:hover 
+{
+    box-shadow: 0px 4px 2px rgb(221, 202, 255);
+}
+.button-second-send 
+{
+    background-color: rgb(243, 244, 246);
+    border: rgb(243, 244, 246);
+    color: rgb(54, 65, 83);
+    font-weight: 500;
+    border-radius: 12px;
+}
+.button-second-send:hover 
+{
+    background-color: rgb(229, 231, 235);  
+    color: rgb(54, 65, 83);
+}
